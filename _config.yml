@@ -13,6 +13,10 @@ author:
   github_username:  gugsrs
   linkedin_username:  gugsrs
 
+theme:
+  name: 'Jekyll-Uno'
+  url: 'https://github.com/joshgerdes/jekyll-uno'
+
 defaults:
   -
     scope:
