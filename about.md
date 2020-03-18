@@ -8,7 +8,7 @@ layout: page
 Apple Developer Academy (Former Brazilian Educational Program for iOS
 Development). Loves technology, startups, to learn new stuff and music.
 Used to work with mobile development (iOS and Android).
-Currently working as a Python Developer at Olist.</p>
+Currently working as System Verification Engineer at Volvo Group.</p>
 
 <h2>Skills</h2>
 
@@ -18,7 +18,7 @@ Currently working as a Python Developer at Olist.</p>
 	<li>Objective-C</li>
 	<li>Java</li>
 	<li>PostgreSQL</li>
-	<li>Django - Flask</li>
+	<li>Django - Flask - Falcon</li>
 	<li>Git</li>
 	<li>AWS</li>
 	<li>Linux</li>
