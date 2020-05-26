@@ -1,18 +1,14 @@
 ---
-title: Colophon
+title: About me
 permalink: /about/
 layout: page
 excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Hej, I'm Gustavo, a brazilian software developer living in Gothenburg, Sweden. I've a degree in Computer Engineering, also participated in the Apple Developer Academy, I really love technology, startups and music ❤️.  I used to work with mobile development (iOS and Android), but now I've been working as a backend developer, using Python most of the time. I'm currently working for Sebratec AB as a software developer.
 
-If you have a question about him or else, just send a letter to him.
-
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
-##### may u needs ✨
+##### If you have any question, feel free to contact me ✨
 
 - {{ site.author.email }}
-- github.com/{{ site.author.username }}
+- [github.com/{{ site.author.username }}](https://github.com/{{ site.author.username }})

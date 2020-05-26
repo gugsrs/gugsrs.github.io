@@ -1,7 +1,7 @@
 # Site settings
 title: Gustavo Siqueira
 description: >-
-  Hi! I'm a software developer working at Sebratec AB as a Consultant.
+  Hi! I'm a software developer working at Sebratec AB.
 lang: en-US
 timezone: Europe/Stockholm
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Gustavo Siqueira
   bio: >-
-    Hi! I'm a software developer working at Sebratec AB as a Software Consultant.
+    Hi! I'm a software developer working at Sebratec AB.
   username: gugsrs
   email: rsiqueira.gustavo@gmail.com
   avatar: /assets/img/avatar.jpg
