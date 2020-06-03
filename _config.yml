@@ -41,7 +41,10 @@ defaults:
       path: ""
     values:
       layout: post
-      comments: false
+      comments: true
+
+disqus:
+  shortname: gugsrs
 
 # Jekyll Compose default front matter
 jekyll_compose:
