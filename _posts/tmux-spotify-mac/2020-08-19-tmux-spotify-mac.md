@@ -9,7 +9,7 @@ tag:
   - plugin
   - spotify
   - script
-image: /tmux-spotify-mac/screenshot.png
+image: /assets/tmux-spotify-mac.png
 ---
 
 It's been about 5 years since I've started to use Tmux and I really recommend it to everyone, it's been a great addition to my set of tools, and it does an amazing job.
@@ -66,8 +66,10 @@ tmux set-option -gq "status-right" "$value"
 
 
 ## Final Result
-![](/assets/tmux-spotify-mac.png)
-*<center>1. Spotify info in tmux status bar.</center>*
+<figure>
+	<img src="{{ page.image }}" alt="Terminal screenshot">
+	<figcaption>Fig 1. Spotify info in tmux status bar.</figcaption>
+</figure>
 
 With this three steps I was able to succeed in creating the plugin, and now in a very easy way it is possible to show the user's spotify info on tmux, unfortnatelly it's only for MacOS by now.
 
