@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Tmux Spotify Plugin
-date: 2020-08-19 01:00 +0700
-modified: 2020-08-19 16:49:47 +07:00
+date: 2020-08-19 16:40 +0200
+modified: 2020-08-19 16:49:47 +02:00
 description: How I made a tmux plugin to show spotify's track information.
 tag:
   - tmux
   - plugin
   - spotify
   - script
+  - macos
 image: /assets/tmux-spotify-mac.png
 ---
 
